@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Aurélien Loyer · Développeur Full-Stack & IA, alternant chez Free" />
+  <img src="assets/banner.svg" width="100%" alt="Aurélien Loyer · Développeur Full-Stack & IA, stagiaire chez Free" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aurelien-loyer-dev&label=Visites%20du%20profil&color=2563eb&style=flat-square" alt="Visites du profil" />
-  <img src="https://img.shields.io/badge/Poste%20actuel-Alternant%20IA%20%40%20Free-1e40af?style=flat-square" alt="Poste actuel" />
+  <img src="https://img.shields.io/badge/Poste%20actuel-Stagiaire%20IA%20%40%20Free-1e40af?style=flat-square" alt="Poste actuel" />
   <img src="https://img.shields.io/badge/Disponible-Stage%20avril%202027-22c55e?style=flat-square" alt="Disponibilité" />
   <img src="https://img.shields.io/badge/Localisation-La%20R%C3%A9union%20%C2%B7%20Remote-0f172a?style=flat-square" alt="Localisation" />
 </p>
@@ -29,7 +29,7 @@
 
 Je suis **Aurélien Loyer**, développeur **Full-Stack & IA**. Je conçois des outils qui servent à quelqu'un : un agent IA pour les équipes d'un opérateur télécom, une app de gestion pour une association, le site d'un club sportif.
 
-- 🤖 **Aujourd'hui** : en alternance chez **Free**, je construis un **agent IA interne** qui rend la documentation de l'entreprise interrogeable, avec un pipeline RAG qui tourne entièrement en local.
+- 🤖 **Aujourd'hui** : en stage à temps partiel chez **Free** (2 jours par semaine), je construis un **agent IA interne** qui rend la documentation de l'entreprise interrogeable, avec un pipeline RAG qui tourne entièrement en local.
 - 🛠️ **Avant** : 6 mois chez **ZEOP**, opérateur télécom réunionnais, à migrer des écrans PHP 3 vers **Laravel / PHP 8**.
 - 🌐 **À côté** : je livre des sites et des applications web à des clubs et des associations, de la maquette à la mise en ligne.
 - 🎯 **Je cherche** : un **stage de 4 mois à partir d'avril 2027**, en IA appliquée ou en développement full-stack.
@@ -58,7 +58,7 @@ Je suis **Aurélien Loyer**, développeur **Full-Stack & IA**. Je conçois des o
 
 | | Période | Poste |
 |:---:|---|---|
-| <img src="assets/free.webp" width="64" alt="Free" /> | oct. 2026 → fév. 2027 | **Alternant · Agent IA** @ **Free**<br/>Pipeline RAG local sur la documentation interne : parsing structuré, chunking sémantique, embeddings, agent LangGraph.<br/><sub>Python · LangGraph · SGLang · Mistral · Ollama · RAG</sub> |
+| <img src="assets/free.webp" width="64" alt="Free" /> | oct. 2026 → fév. 2027 | **Stagiaire · Agent IA** @ **Free** (temps partiel, 2 j/semaine)<br/>Pipeline RAG local sur la documentation interne : parsing structuré, chunking sémantique, embeddings, agent LangGraph.<br/><sub>Python · LangGraph · SGLang · Mistral · Ollama · RAG</sub> |
 | <img src="assets/zeop.webp" width="64" alt="ZEOP" /> | sept. 2025 → fév. 2026 | **Stagiaire développeur web** @ **ZEOP** (6 mois)<br/>Migration d'écrans applicatifs PHP 3 vers Laravel / PHP 8, ajout de fonctionnalités et corrections.<br/><sub>PHP · Laravel · JavaScript · SQL</sub> |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="assets/epitech-logo.svg" /><img src="assets/epitech-logo-dark.svg" width="64" alt="EPITECH" /></picture> | 2024 → 2029 | **Formation** · EPITECH La Réunion, Expert en Technologies de l'Information (Bac +5), actuellement en 3e année |
 
@@ -68,7 +68,7 @@ Je suis **Aurélien Loyer**, développeur **Full-Stack & IA**. Je conçois des o
 
 | | Projet | Pour qui / contexte | Ce que j'ai livré | Stack | Liens |
 |:---:|---|---|---|---|---|
-| <img src="assets/free.webp" width="48" alt="Free" /> | 🤖 **Agent IA interne** | Free · alternance | Agent qui répond aux questions des équipes à partir de la documentation interne, sans que les données quittent l'entreprise. | Python · LangGraph · Mistral · SGLang | 🔒 Privé |
+| <img src="assets/free.webp" width="48" alt="Free" /> | 🤖 **Agent IA interne** | Free · stage temps partiel | Agent qui répond aux questions des équipes à partir de la documentation interne, sans que les données quittent l'entreprise. | Python · LangGraph · Mistral · SGLang | 🔒 Privé |
 | <img src="assets/zeop.webp" width="48" alt="ZEOP" /> | 🔁 **Migration Laravel** | ZEOP · stage | Écrans de l'opérateur portés de PHP 3 vers Laravel / PHP 8. | PHP · Laravel · SQL | 🔒 Privé |
 | <img src="assets/bde-epitech.png" width="48" alt="BDE EPITECH" /> | 🏗️ **BDE Hub** | BDE EPITECH · en production | 3 PWA (vitrine, boutique, admin) sur une base Supabase commune, synchronisées en temps réel, avec paiement SumUp. | React · Supabase · Cloudinary · SumUp | [Démo](https://bdepitech-link.vercel.app/) |
 | <img src="assets/ws-tchoukball.png" width="48" alt="White Sharks" /> | 🏐 **WS Tchoukball Team** | Club des White Sharks | Site officiel du club, contenu administrable. | React · Supabase · Cloudinary | [wstchoukball.com](https://wstchoukball.com) |
