@@ -47,7 +47,7 @@ Je suis **Aurélien Loyer**, développeur **Full-Stack & IA**. Je conçois des o
 | | Domaine | Concrètement |
 |:---:|---|---|
 | 🤖 | **Agents IA & RAG** | Base de connaissances interrogeable à partir de PDF et de Word, agents LangGraph, LLM hébergés en local (Ollama, SGLang) pour garder les données en interne. |
-| ⚡ | **Applications web & PWA** | React / Next.js + Supabase, temps réel, authentification, paiement (SumUp), installables sur mobile. |
+| ⚡ | **Applications web & PWA** | React / Next.js + Supabase, temps réel, authentification, installables sur mobile. |
 | 🌐 | **Sites vitrines** | Sites rapides et faciles à mettre à jour, déployés sur Vercel avec nom de domaine et DNS configurés. |
 | 🔁 | **Modernisation de code** | Reprise d'applications PHP anciennes, migration vers Laravel, correction et ajout de fonctionnalités. |
 | ⚙️ | **Automatisation** | Workflows n8n, scripts Python, intégration d'API. |
